@@ -6,4 +6,5 @@ JSON for the tweets:
     pip install twarc
     twarc --hydrate tweet-ids.txt > tweets.json
 
-You can also find some scripts we used for analyzing the data here.
+You can also find some scripts we used for analyzing the data here. You will
+need the original JSON data to run them.
